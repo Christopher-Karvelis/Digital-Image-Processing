@@ -1,2 +1,2 @@
 # Perspective-Warp
-A simple program that given 4 points on an image, it warps the image and presents the result in bird's eye perspective. This is done by guessing the affine transform that should be applied to the image in order to have the 4 selected points as border corners.
+Perspective Warp is almost like magic. It lets you change the perspective in your image and can be used to rotate buildings and objects and quickly straighten multiple objects in less than a minute. In this program given 4 points on an image, it warps the input image and presents the result in bird's eye perspective. This is done by guessing the affine transform that should be applied to the image in order to have the 4 selected points as border corners.
